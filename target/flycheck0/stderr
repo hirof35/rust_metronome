@@ -1,0 +1,6 @@
+   0.405741900s  INFO prepare_target{force=false package_id=rust_metronome v0.1.0 (C:\Users\good5\rust_metronome) target="rust_metronome"}: cargo::core::compiler::fingerprint: fingerprint dirty for rust_metronome v0.1.0 (C:\Users\good5\rust_metronome)/Check { test: false }/TargetInner { name: "rust_metronome", doc: true, ..: with_path("C:\\Users\\good5\\rust_metronome\\src\\main.rs", Edition2024) }
+   0.405797900s  INFO prepare_target{force=false package_id=rust_metronome v0.1.0 (C:\Users\good5\rust_metronome) target="rust_metronome"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.455287500s  INFO prepare_target{force=false package_id=rust_metronome v0.1.0 (C:\Users\good5\rust_metronome) target="rust_metronome"}: cargo::core::compiler::fingerprint: fingerprint dirty for rust_metronome v0.1.0 (C:\Users\good5\rust_metronome)/Check { test: true }/TargetInner { name: "rust_metronome", doc: true, ..: with_path("C:\\Users\\good5\\rust_metronome\\src\\main.rs", Edition2024) }
+   0.455320600s  INFO prepare_target{force=false package_id=rust_metronome v0.1.0 (C:\Users\good5\rust_metronome) target="rust_metronome"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking rust_metronome v0.1.0 (C:\Users\good5\rust_metronome)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.74s
