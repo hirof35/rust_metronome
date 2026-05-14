@@ -2,6 +2,7 @@
 
 Rustで実装された、練習ログ保存機能付きのメトロノームアプリです。
 Python (Tkinter) 版をベースに、より高い精度とモダンなUI（eframe/egui）で再構築されました。
+<img width="433" height="536" alt="スクリーンショット 2026-05-14 164923" src="https://github.com/user-attachments/assets/4168fa66-ef70-444c-8a6a-2beab8f5edb9" />
 
 ## 主な機能
 
@@ -35,4 +36,3 @@ chrono - 日時管理
 
 ライセンス
 このプロジェクトは MIT License の下で公開されています。
-<img width="433" height="536" alt="スクリーンショット 2026-05-14 164923" src="https://github.com/user-attachments/assets/4168fa66-ef70-444c-8a6a-2beab8f5edb9" />
